@@ -1,5 +1,7 @@
 # K-Means Clustering pada Dataset Online Retail
 
+[![Profil](https://img.shields.io/badge/1237050111-Putri%20Puspita-8A2BE2)](https://github.com/putriipuspita)
+
 ## Deskripsi Project
 
 Project ini merupakan implementasi algoritma **K-Means Clustering** menggunakan dataset **Online Retail**. Tujuan dari project ini adalah mengelompokkan data transaksi berdasarkan karakteristik pembelian menggunakan variabel **Quantity** dan **UnitPrice**.
