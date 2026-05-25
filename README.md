@@ -143,7 +143,3 @@ Metode K-Means dapat digunakan untuk membantu memahami pola transaksi pelanggan 
 * Scikit-Learn
 
 ---
-
-## Author
-
-Putri Puspita
